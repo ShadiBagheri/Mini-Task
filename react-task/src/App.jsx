@@ -1,13 +1,11 @@
-import Tabs from "./Tabs.jsx";
-
+import Home from "./Home.jsx";
 
 function App() {
-
-  return (
-    <>
-        <Tabs/>
-    </>
-  )
+    return (
+        <>
+            <Home/>
+        </>
+    )
 }
 
 export default App
